@@ -17,7 +17,6 @@ After finishing this assignment you will able to answer the following questions:
 * How to use a Convolutional Neural Network for  sentiment analysis?
 * How to build various recurrent models (LSTMs and GRUs) for sentiment analysis?
 * How to use packed_padded_sequences for sequential models?
-
 Please make sure that you have selected "GPU" as the Hardware accelerator from Runtime -> Change runtime type.
 
 ## Import Libraries
